@@ -4,10 +4,7 @@
 
 package com.mycompany.metodosnumericos;
 
-/**
- *
- * @author hgavi
- */
+
 public class MetodosNumericos {
 
     public static void main(String[] args) {
