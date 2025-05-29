@@ -1,7 +1,5 @@
 # Ejemplos de Errores Numéricos en Java
 
-Este repositorio muestra ejemplos de diferentes tipos de **errores numéricos** comunes en la materia de **métodos numéricos**, implementados en Java.
-
 ---
 
 ## 🔹 1. Error de Truncamiento
