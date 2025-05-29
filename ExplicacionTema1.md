@@ -1,7 +1,5 @@
 # Explicación de Errores Numéricos en Métodos Numéricos
 
-Este documento ofrece una **explicación breve** de los principales tipos de errores numéricos usados comúnmente en análisis numérico.
-
 ---
 
 ## 🔹 1. Error de Truncamiento
