@@ -1,4 +1,4 @@
-# Explicación de Errores Numéricos en Métodos Numéricos
+# Explicación de Errores Numéricos
 
 ---
 
