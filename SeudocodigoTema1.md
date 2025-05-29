@@ -1,7 +1,5 @@
 # Seudocódigo de Ejemplos de Errores Numéricos
 
-Este documento contiene el **seudocódigo** de los ejemplos implementados en Java sobre distintos tipos de errores numéricos comunes en métodos numéricos.
-
 ---
 
 ## 🔹 1. Error de Truncamiento
